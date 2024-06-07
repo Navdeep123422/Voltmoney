@@ -14,11 +14,13 @@ Login (Should only accept the specified username and password and should fail on
 For part one of the assignment, provide the test cases in a Google Doc and share the link.
 For part two, implement the test cases using Selenium WebDriver with Java, commit the code changes to an open Git repository, and share the details.
 # Solution
-Test Cases: Refer to the provided Google Doc for a detailed list of test cases.
-
 Scripts: The test cases have been implemented using Selenium WebDriver with Java. 
 
 The scripts can be found in the src/test/java directory.
+
+
+<img width="1455" alt="Screenshot 2024-06-07 at 6 13 40 AM" src="https://github.com/Navdeep123422/Voltmoney/assets/99684795/9088053c-8701-40c3-ae3e-346d67995b71">
+
 # Git Repository: 
 The project has been uploaded to the following Git repository: Link to Git Repository
 # How to Run Tests:
