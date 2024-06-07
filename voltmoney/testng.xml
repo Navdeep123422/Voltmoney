@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllTestsSuite">
+    <test name="LoginTest">
+        <classes>
+            <class name="voltmoney.voltmoney.LoginTest"/>
+        </classes>
+    </test>
+    <test name="AddToCartTest">
+        <classes>
+            <class name="voltmoney.voltmoney.AddToCartTest"/>
+        </classes>
+    </test>
+    <test name="RemoveFromCartTest">
+        <classes>
+            <class name="voltmoney.voltmoney.RemoveFromCartTest"/>
+        </classes>
+    </test>
+    <test name="CheckoutFormTest">
+        <classes>
+            <class name="voltmoney.voltmoney.CheckoutFormTest"/>
+        </classes>
+    </test>
+</suite>

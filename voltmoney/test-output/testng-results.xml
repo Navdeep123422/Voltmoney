@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T06:11:33 IST" name="AllTestsSuite" finished-at="2024-06-07T06:12:14 IST" duration-ms="40326">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T06:11:33 IST" name="LoginTest" finished-at="2024-06-07T06:12:06 IST" duration-ms="32599">
+      <class name="voltmoney.voltmoney.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:voltmoney.voltmoney.LoginTest@7d20d0b]" started-at="2024-06-07T06:11:33 IST" name="setUp" finished-at="2024-06-07T06:11:35 IST" duration-ms="1548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLogin()[pri:0, instance:voltmoney.voltmoney.LoginTest@7d20d0b]" started-at="2024-06-07T06:11:35 IST" name="testInvalidLogin" finished-at="2024-06-07T06:11:35 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method is-config="true" signature="clearFields()[pri:0, instance:voltmoney.voltmoney.LoginTest@7d20d0b]" started-at="2024-06-07T06:11:35 IST" name="clearFields" finished-at="2024-06-07T06:11:35 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method signature="testValidLogin()[pri:0, instance:voltmoney.voltmoney.LoginTest@7d20d0b]" started-at="2024-06-07T06:11:35 IST" name="testValidLogin" finished-at="2024-06-07T06:11:35 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="clearFields()[pri:0, instance:voltmoney.voltmoney.LoginTest@7d20d0b]" started-at="2024-06-07T06:11:35 IST" name="clearFields" finished-at="2024-06-07T06:12:06 IST" duration-ms="30573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:voltmoney.voltmoney.LoginTest@7d20d0b]" started-at="2024-06-07T06:12:06 IST" name="tearDown" finished-at="2024-06-07T06:12:06 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- voltmoney.voltmoney.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test started-at="2024-06-07T06:12:06 IST" name="AddToCartTest" finished-at="2024-06-07T06:12:09 IST" duration-ms="2968">
+      <class name="voltmoney.voltmoney.AddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:voltmoney.voltmoney.AddToCartTest@6f45df59]" started-at="2024-06-07T06:12:06 IST" name="setUp" finished-at="2024-06-07T06:12:07 IST" duration-ms="1338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:voltmoney.voltmoney.AddToCartTest@6f45df59]" started-at="2024-06-07T06:12:07 IST" name="setUp" finished-at="2024-06-07T06:12:09 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddToCart()[pri:0, instance:voltmoney.voltmoney.AddToCartTest@6f45df59]" started-at="2024-06-07T06:12:09 IST" name="testAddToCart" finished-at="2024-06-07T06:12:09 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:voltmoney.voltmoney.AddToCartTest@6f45df59]" started-at="2024-06-07T06:12:09 IST" name="tearDown" finished-at="2024-06-07T06:12:09 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- voltmoney.voltmoney.AddToCartTest -->
+    </test> <!-- AddToCartTest -->
+    <test started-at="2024-06-07T06:12:09 IST" name="RemoveFromCartTest" finished-at="2024-06-07T06:12:10 IST" duration-ms="1606">
+      <class name="voltmoney.voltmoney.RemoveFromCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:voltmoney.voltmoney.RemoveFromCartTest@291b4bf5]" started-at="2024-06-07T06:12:09 IST" name="setUp" finished-at="2024-06-07T06:12:10 IST" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRemoveFromCart()[pri:0, instance:voltmoney.voltmoney.RemoveFromCartTest@291b4bf5]" started-at="2024-06-07T06:12:10 IST" name="testRemoveFromCart" finished-at="2024-06-07T06:12:10 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:voltmoney.voltmoney.RemoveFromCartTest@291b4bf5]" started-at="2024-06-07T06:12:10 IST" name="tearDown" finished-at="2024-06-07T06:12:10 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- voltmoney.voltmoney.RemoveFromCartTest -->
+    </test> <!-- RemoveFromCartTest -->
+    <test started-at="2024-06-07T06:12:10 IST" name="CheckoutFormTest" finished-at="2024-06-07T06:12:14 IST" duration-ms="3128">
+      <class name="voltmoney.voltmoney.CheckoutFormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:voltmoney.voltmoney.CheckoutFormTest@117e949d]" started-at="2024-06-07T06:12:10 IST" name="setUp" finished-at="2024-06-07T06:12:12 IST" duration-ms="1398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:voltmoney.voltmoney.CheckoutFormTest@117e949d]" started-at="2024-06-07T06:12:12 IST" name="setUp" finished-at="2024-06-07T06:12:13 IST" duration-ms="1407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckoutForm()[pri:0, instance:voltmoney.voltmoney.CheckoutFormTest@117e949d]" started-at="2024-06-07T06:12:13 IST" name="testCheckoutForm" finished-at="2024-06-07T06:12:13 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:voltmoney.voltmoney.CheckoutFormTest@117e949d]" started-at="2024-06-07T06:12:13 IST" name="tearDown" finished-at="2024-06-07T06:12:14 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:voltmoney.voltmoney.CheckoutFormTest@117e949d]" started-at="2024-06-07T06:12:14 IST" name="tearDown" finished-at="2024-06-07T06:12:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- voltmoney.voltmoney.CheckoutFormTest -->
+    </test> <!-- CheckoutFormTest -->
+  </suite> <!-- AllTestsSuite -->
+</testng-results>
